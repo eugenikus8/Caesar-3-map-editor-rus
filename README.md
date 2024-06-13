@@ -14,3 +14,16 @@
 1.Если редактор уже установлен: распаковать в корень игры только эти 2 файла - "c3_map.eng" и "c3_map_mm.eng"
 2.Если редактор не установлен: распаковать содержимое архива в корень игры
 3.Редактор запускать через саму игру (Augustus или Julius), а не через c3_mapper.exe
+
+
+<img src="https://i.imgur.com/1WeiHCh.jpeg" />
+
+<img src="https://i.imgur.com/1t5JAbf.jpeg" />
+
+<img src="https://i.imgur.com/51UtBNm.jpeg" />
+
+<img src="https://i.imgur.com/Yc73OeU.jpeg" />
+
+<img src="https://i.imgur.com/diBWE3g.jpeg" />
+
+<img src="https://i.imgur.com/O7We4QY.jpeg" />
