@@ -18,15 +18,11 @@
 Если переключить в главном меню язык "по умолчанию" (англ.) и попытаться войти в редактор, появляются графические баги. Просто выйдите из игры и снова войдите. Не забудьте перед входом в редактор снова переключить язык на русский.
 
 #### СКРИНШОТЫ:
-<img src="https://i.imgur.com/1WeiHCh.jpeg" />
-
-<img src="https://i.imgur.com/1t5JAbf.jpeg" />
-
-<img src="https://i.imgur.com/51UtBNm.jpeg" />
-
-<img src="https://i.imgur.com/Yc73OeU.jpeg" />
-
-<img src="https://i.imgur.com/diBWE3g.jpeg" />
-
-<img src="https://i.imgur.com/O7We4QY.jpeg" />
-<img src="https://i.imgur.com/EWreoLg.jpeg" />
+![2024-06-21_125227](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/ee247d01-b406-4a7a-8225-680e97ead2c1)
+![2024-06-21_125235](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/c9f81c37-925b-42b3-a1c7-4e02902c8f5f)
+![2024-06-21_125247](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/0ca78720-6c57-4cc6-81e7-0cde01dcdf5e)
+![2024-06-21_125251](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/08eeb7f1-18f3-4476-93be-b589f4562479)
+![2024-06-21_125255](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/bee462b3-5697-41a9-b278-e1b0d44161b4)
+![2024-06-21_125303](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/3d490d42-ff08-4642-9d9e-5bf9bc36adfd)
+![2024-06-21_125529](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/1b3e57c0-7231-4e74-8124-e562e2a0579a)
+![2024-06-21_125127](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/8950173d-1bdb-4643-9a3a-bb7d7ff13c90)
