@@ -22,4 +22,3 @@
 ![2024-06-21_125255](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/bee462b3-5697-41a9-b278-e1b0d44161b4)
 ![2024-06-21_125303](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/3d490d42-ff08-4642-9d9e-5bf9bc36adfd)
 ![2024-06-21_125529](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/1b3e57c0-7231-4e74-8124-e562e2a0579a)
-![2024-06-21_125127](https://github.com/eugenikus8/Caesar-3-map-editor-rus/assets/51211736/8950173d-1bdb-4643-9a3a-bb7d7ff13c90)
